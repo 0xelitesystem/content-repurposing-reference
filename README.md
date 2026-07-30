@@ -6,11 +6,15 @@ This reference covers how to do it without producing thin, repetitive filler.
 
 ## What is inside
 
-- `01-the-case-for-repurposing.md` why one good idea should travel
-- `02-pillar-and-derivative-formats.md` the hub-and-spoke structure
-- `03-adapting-to-each-platform.md` why copying across platforms fails
-- `04-a-repeatable-workflow.md` a process you can run every time
-- `05-what-not-to-repurpose.md` when repurposing produces slop instead of reach
+- [01-the-case-for-repurposing.md](01-the-case-for-repurposing.md) why one good idea should travel
+- [02-pillar-and-derivative-formats.md](02-pillar-and-derivative-formats.md) the hub-and-spoke structure
+- [03-adapting-to-each-platform.md](03-adapting-to-each-platform.md) why copying across platforms fails
+- [04-a-repeatable-workflow.md](04-a-repeatable-workflow.md) a process you can run every time
+- [05-what-not-to-repurpose.md](05-what-not-to-repurpose.md) when repurposing produces slop instead of reach
+
+## More
+
+Part of a catalog of single-file browser tools and plain-language references, all MIT licensed and dependency-free: [0xelitesystem.github.io](https://0xelitesystem.github.io/). Built by [elitesystem.ai](https://elitesystem.ai).
 
 ## License
 
